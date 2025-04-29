@@ -1,3 +1,4 @@
 theme: minima
 title: Elevix Privacy Policy
-layout: page
+header_pages: []
+footer: false
