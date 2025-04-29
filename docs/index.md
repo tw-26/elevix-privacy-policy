@@ -5,29 +5,35 @@ title: Privacy Policy
 
 # Privacy Policy
 
-Effective Date: 05/05/2025
+## Personal Information the App Collects
 
-## Information We Collect
+When you install and use Elevix apps, we automatically access basic store information provided by Shopify, including:
 
-We collect information necessary for the operation of our service, such as your name, email, and other details required to process your transactions and provide customer support.
+- Store name
+- Store domain
+- Store email
 
-## How We Use Your Information
+We do **not** collect any customer, payment, or personal data beyond what Shopify provides during app installation.
 
-The information we collect is used solely for the purpose of providing and improving our services. We do not sell or share your personal information with third parties unless required by law.
+## How Do We Use Your Personal Information?
 
-## Cookies
+We use the store information solely to:
 
-We use cookies to improve your experience and help us analyze how our website is used. By using our site, you consent to the use of cookies.
+- Operate and provide the app’s functionality
+- Identify your store for support and maintenance purposes
 
-## Security
+We do **not** sell, rent, or share your information with third parties.
 
-We take the security of your personal data seriously and implement industry-standard practices to protect it from unauthorized access.
+## Sharing Your Personal Information
 
-## Changes to This Policy
+We do **not** share any personal information with external services or third parties.
 
-We reserve the right to update this Privacy Policy at any time. Any changes will be posted on this page with an updated effective date.
+## Your Rights
 
-## Contact Us
+You have the right to access, correct, or delete any information we hold.  
+To make such a request, please contact us at info@elevixapps.com.
 
-If you have any questions or concerns about this Privacy Policy, please contact us at:  
-info@elevixapps.com
+## Contact Information
+
+If you have any questions about this Privacy Policy, please contact us at:  
+**Email:** info@elevixapps.com
