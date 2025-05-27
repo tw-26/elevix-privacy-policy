@@ -29,9 +29,9 @@ We do **not** share any personal information with external services or third par
 # Your Rights
 
 You have the right to access, correct, or delete any information we hold.  
-To make such a request, please contact us at info@elevixapps.com.
+To make such a request, please contact us at support@elevixapps.com.
 
 # Contact Information
 
 If you have any questions about this Privacy Policy, please contact us at:  
-**Email:** info@elevixapps.com
+**Email:** support@elevixapps.com
