@@ -1,37 +1,19 @@
 ---
 layout: page
-title: Privacy Policy
+title: Elevix Apps
 ---
 
-# Personal Information the App Collects
+# Elevix Apps
 
-When you install and use Elevix apps, we automatically access basic store information provided by Shopify, including:
+Thanks for checking us out.
 
-- Store name
-- Store domain
-- Store email
+Our Shopify app is live and ready — the website is coming soon.
 
-We do **not** collect any customer, payment, or personal data beyond what Shopify provides during app installation.
+👉 [View our app on the Shopify App Store](https://apps.shopify.com/elevix-customer-account-bar)
 
-# How Do We Use Your Personal Information?
+### 📬 Need support or want to get in touch?
 
-We use the store information solely to:
+- Email: **info@elevixapps.com**  
+- Or fill out this form: [Contact Us] (**https://tally.so/r/3qvqL2**)
 
-- Operate and provide the app’s functionality
-- Identify your store for support and maintenance purposes
-
-We do **not** sell, rent, or share your information with third parties.
-
-# Sharing Your Personal Information
-
-We do **not** share any personal information with external services or third parties.
-
-# Your Rights
-
-You have the right to access, correct, or delete any information we hold.  
-To make such a request, please contact us at info@elevixapps.com.
-
-# Contact Information
-
-If you have any questions about this Privacy Policy, please contact us at:  
-**Email:** info@elevixapps.com
+Read our [Privacy Policy](/privacy-policy).
