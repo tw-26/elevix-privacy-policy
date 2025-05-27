@@ -11,5 +11,5 @@ Our Shopify app is live and ready — the website is coming soon.
 
 ### 📬 Need support or want to get in touch?
 
-- Email: info@elevixapps.com
-- Or fill out this form: [Contact Us] (https://tally.so/r/3qvqL2)
+- Email: [support@elevixapps.com](mailto:support@elevixapps.com)
+- Or fill out this form: [Contact Us](https://tally.so/r/3qvqL2)
